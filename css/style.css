@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+div {
+    text-align: center;
+    letter-spacing: 5px;
+    color: white;
+}
+
+button {
+    height: 2em;
+    width: 5.5em;
+    border: none;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+#start-btn {
+    background-color: greenyellow;
+}
+
+#pause-btn {
+    background-color: whitesmoke;
+}
+
+#stop-btn {
+    background-color: crimson;
+}
+
